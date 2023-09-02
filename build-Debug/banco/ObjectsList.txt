@@ -1,0 +1,1 @@
+../build-Debug/banco/CPF.cpp.o ../build-Debug/banco/main.cpp.o ../build-Debug/banco/Conta.cpp.o ../build-Debug/banco/Titular.cpp.o

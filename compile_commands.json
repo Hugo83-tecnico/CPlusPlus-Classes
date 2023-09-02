@@ -1,0 +1,29 @@
+[{
+  "file": "/home/bgomesam/Alura/c++/banco/banco/main.cpp",
+  "directory": "/home/bgomesam/Alura/c++/banco/banco",
+  "command": "/usr/bin/g++-11 -c /home/bgomesam/Alura/c++/banco/banco/main.cpp -o /home/bgomesam/Alura/c++/banco/banco/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/bgomesam/Alura/c++/banco/banco/Conta.cpp",
+  "directory": "/home/bgomesam/Alura/c++/banco/banco",
+  "command": "/usr/bin/g++-11 -c /home/bgomesam/Alura/c++/banco/banco/Conta.cpp -o /home/bgomesam/Alura/c++/banco/banco/Conta.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/bgomesam/Alura/c++/banco/banco/Titular.hpp",
+  "directory": "/home/bgomesam/Alura/c++/banco/banco",
+  "command": "/usr/bin/g++-11 -c /home/bgomesam/Alura/c++/banco/banco/Titular.hpp -o /home/bgomesam/Alura/c++/banco/banco/Titular.hpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/bgomesam/Alura/c++/banco/banco/Conta.hpp",
+  "directory": "/home/bgomesam/Alura/c++/banco/banco",
+  "command": "/usr/bin/g++-11 -c /home/bgomesam/Alura/c++/banco/banco/Conta.hpp -o /home/bgomesam/Alura/c++/banco/banco/Conta.hpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/bgomesam/Alura/c++/banco/banco/Titular.cpp",
+  "directory": "/home/bgomesam/Alura/c++/banco/banco",
+  "command": "/usr/bin/g++-11 -c /home/bgomesam/Alura/c++/banco/banco/Titular.cpp -o /home/bgomesam/Alura/c++/banco/banco/Titular.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/bgomesam/Alura/c++/banco/banco/CPF.hpp",
+  "directory": "/home/bgomesam/Alura/c++/banco/banco",
+  "command": "/usr/bin/g++-11 -c /home/bgomesam/Alura/c++/banco/banco/CPF.hpp -o /home/bgomesam/Alura/c++/banco/banco/CPF.hpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/bgomesam/Alura/c++/banco/banco/CPF.cpp",
+  "directory": "/home/bgomesam/Alura/c++/banco/banco",
+  "command": "/usr/bin/g++-11 -c /home/bgomesam/Alura/c++/banco/banco/CPF.cpp -o /home/bgomesam/Alura/c++/banco/banco/CPF.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
